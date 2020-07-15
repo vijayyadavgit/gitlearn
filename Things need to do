@@ -1,0 +1,103 @@
+Comman Goal
+-----------------
+Proper data passing.
+Proper validation.
+Perper error message.
+Best configuation.
+Optimize code.
+Plug and play compnent.
+Robest & fullproof system or program.
+Write program right way.
+Best Practice
+Design Patter
+spring logging best practices
+
+Future Task
+--------------
+Develop api into node js.
+Need to work on angular js.
+
+24-FEB-2020
+---------------
+Setup node.
+Develope api for hello world.
+
+23-FEB-2020
+---------------
+Project difficulty solve
+1) Validation
+2) Proper logging
+3) Projection 
+4) Joining
+5) Common Procedure listing variables.
+6) Apply template design pattern.
+7) Optimize & refator code.
+
+22-FEB-2020
+----------------
+Hibernate
+------------
+Hibernate configuration - Pending
+Relation Practice - Pending
+Curd opertaion - Pending
+Sorting - Pending
+Creterial - Pending
+Gereric Creterai craete - Pending
+Paggination - Pending
+Complex joins in creteria - Pending
+Projection Practice - Pending
+Best way to project - Pending
+How to use different schemas - Pending
+Flyways - Pending
+
+Junit Testing
+---------------
+Repository testing h2 - Pending
+Repository testing mysql - Pending
+Repository testing mysql procedure - Pending
+testing controller, services,repo & complete integration - Pending
+If needed and power mockito also. - Pending
+
+Logging
+----------
+Log file configuration for show spring url logs. - Done
+logging.level.org.springframework.web=TRACE
+How to do proper logging in api & what place. - Pending
+
+Validation
+------------
+Perform proper validation with messages - Pending
+
+Exception Handling
+----------------------
+Proper exception handling in any case. - Pending
+List can pass while throwing exception - Pending
+Dyanamic error message - Pending
+
+Optional
+----------
+How to optimize api with optional use - Pending
+Object.RequiredNotNull() use, it behaviour & integration - Done
+
+Generic
+---------
+How to create method genric - Done
+
+Design pattern
+-----------------
+Template - Pending
+Builder - Pending
+Singalton - Pending
+
+21-FEB-2020
+---------------
+Git commands 
+	- existing project into remote -Done
+	- add remove origin - Done
+
+JAVA 8 - Pennding
+HashMap functionality - Pending
+two time  sort - Done
+common element list - Done
+differenet elicement list - Pending
+Parrale Stream - Pending
